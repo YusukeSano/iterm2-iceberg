@@ -534,6 +534,28 @@
 		<key>Red Component</key>
 		<real>0.17647058823529413</real>
 	</dict>
+	<key>Match Background Color (Dark)</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.47058823529411764</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.6431372549019608</real>
+		<key>Red Component</key>
+		<real>0.8862745098039215</real>
+	</dict>
+	<key>Match Background Color (Light)</key>
+	<dict>
+		<key>Blue Component</key>
+		<real>0.2235294117647059</real>
+		<key>Color Space</key>
+		<string>sRGB</string>
+		<key>Green Component</key>
+		<real>0.45098039215686275</real>
+		<key>Red Component</key>
+		<real>0.7725490196078432</real>
+	</dict>
 	<key>Selected Text Color (Dark)</key>
 	<dict>
 		<key>Blue Component</key>
